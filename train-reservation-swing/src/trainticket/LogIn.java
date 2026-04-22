@@ -6,7 +6,7 @@ import java.io.IOException;
 public class LogIn extends javax.swing.JFrame {
     
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(LogIn.class.getName());
-    String userName="tharunija mahendran";
+    String userName="sandaru sheran";
     String password="1234";
 
 
